@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/gick.iml" filepath="$PROJECT_DIR$/.idea/gick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/everida.utils.iml" filepath="$PROJECT_DIR$/everida.utils.iml" />
     </modules>
   </component>
 </project>
